@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-streamlit
-pandas
-requests
-pickle5
-numpy
-time
-=======
-streamlit
-pandas
-requests
-pickle5
-numpy
-time
->>>>>>> d8c30c15f63cf2f4ae438a7e3a6934db2ff11ed0
 os
+streamlit
+pandas
+requests
+pickle5
+numpy
+time
